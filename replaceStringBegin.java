@@ -1,4 +1,4 @@
-public class replaceStringBegin {
+public class ReplaceStringBegin {
 
     public static void main(String[] arg) {
         String firstString = "HelloHe";
